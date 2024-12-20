@@ -1,4 +1,12 @@
+
 ### Hi there 👋
+
+### Stacks
+<!--
+e.g. <img src="https://img.shields.io/badge/[left text]-[right text]-[right color]?logo=[logo]&logoColor=[logo color]&logoWidth=[number]"/>
+-->
+<img src="https://img.shields.io/badge/C-gray?logo=C"/>
+<img src="https://img.shields.io/badge/Python-gray?logo=Python"/>
 
 ### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Giung951&show_icons=true&theme=onedark)
@@ -7,16 +15,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giung951&theme=onedark)
 
 <!--
-**Giung951/Giung951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Badge : https://shields.io/
+Simple Icon : https://simpleicons.org/
 -->
