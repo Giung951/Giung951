@@ -1,4 +1,8 @@
-## Hi there 👋
+### Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Giung951&show_icons=true&theme=onedark)
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giung951&theme=onedark)
 
 <!--
 **Giung951/Giung951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
