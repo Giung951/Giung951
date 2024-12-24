@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Introduce
+<!--
+e.g. <img src="https://img.shields.io/badge/[left text]-[right text]-[right color]?logo=[logo]&logoColor=[logo color]&logoWidth=[number]"/>
+-->
+<img src="https://img.shields.io/badge/Embedded Firmware Engineer-gray"/><br/>
+<img src="https://img.shields.io/badge/Wired/Wireless Network-gray"/><br/>
+
 ### Stacks
 <!--
 e.g. <img src="https://img.shields.io/badge/[left text]-[right text]-[right color]?logo=[logo]&logoColor=[logo color]&logoWidth=[number]"/>
@@ -17,26 +24,27 @@ e.g. <img src="https://img.shields.io/badge/[left text]-[right text]-[right colo
 
 ### Tech Interests
 <!--
-e.g.
+e.g. <img src="https://img.shields.io/badge/[left text]-[right text]-[right color]?logo=[logo]&logoColor=[logo color]&logoWidth=[number]"/>
 -->
 <img src="https://img.shields.io/badge/Automotive-gray"/> <img src="https://img.shields.io/badge/AUTomotive Open System ARchitecture-gray"/> <img src="https://img.shields.io/badge/Battery Management System-gray"/><br/>
 <img src="https://img.shields.io/badge/Wired/Wireless Network-gray"/> <img src="https://img.shields.io/badge/Firmware Over The Air-gray"/><br/>
 
 ### Stats
 <!--
-e.g.
+e.g. ![text](https://github-readme-stats.vercel.app/api?username=[user name]&show_icons=[true or false]&theme=[theme])
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Giung951&show_icons=true&theme=onedark)
 
 ### Most Used Languages
 <!--
-e.g. 
+e.g. ![text](https://github-readme-stats.vercel.app/api/top-langs/?username=[user name]&theme=[theme])
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giung951&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giung951&theme=onedark)
 
 <!--
-Reference sites and documents
-- Badge : https://shields.io/
-- Simple Icon : https://simpleicons.org/
+- Reference Sites and Documents
+  - Badge : https://shields.io/
+  - Simple Icon : https://simpleicons.org/
+  - GItHub Stats : https://github.com/anuraghazra/github-readme-stats
 -->
