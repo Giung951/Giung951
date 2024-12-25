@@ -21,6 +21,7 @@ e.g. <img src="https://img.shields.io/badge/[left text]-[right text]-[right colo
 <img src="https://img.shields.io/badge/STM32CubeMX-gray"/> <img src="https://img.shields.io/badge/STM32CubeIDE-gray"/> <img src="https://img.shields.io/badge/Visual Studio Code-gray"/> <img src="https://img.shields.io/badge/IAR Embedded Workbench-gray"/> <img src="https://img.shields.io/badge/Keil uVision-gray"/><br/>
 <img src="https://img.shields.io/badge/Wireshark-gray?logo=wireshark"/><br/>
 <img src="https://img.shields.io/badge/OpenSSL-gray?logo=openssl"/> <img src="https://img.shields.io/badge/Postman-gray?logo=postman"/> <img src="https://img.shields.io/badge/Mosquitto-gray?logo=eclipsemosquitto"/><br/>
+<img src="https://img.shields.io/badge/Open Source Hardware-gray"/> <img src="https://img.shields.io/badge/Arduino-gray"/> <img src="https://img.shields.io/badge/Raspberry Pi Pico-gray"/><br/>
 
 ### Tech Interests
 <!--
